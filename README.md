@@ -12,6 +12,8 @@ I grew up playing GTA, and the military tank in the game was called **Rhino**. W
 
 A little bit of GTA nostalgia turned into a real maker project. 🦏🔥
 
+https://www.youtube.com/shorts/cIAKxjZ56U4
+
 ## ⚙️ Hardware
 
 The project uses:
